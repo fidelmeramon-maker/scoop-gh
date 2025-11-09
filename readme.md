@@ -8,5 +8,5 @@ If you used our own scoop bucket, here is how to transition off of it:
 
 ```sh
 scoop bucket rm github-gh
-scoop install gh
+scoop install gh 
 ```
